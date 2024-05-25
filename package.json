@@ -1,0 +1,29 @@
+{
+  "name": "renamely",
+  "version": "1.0.0",
+  "description": "converts .js,.jsx to .ts,.tsx respectively",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cmd1": "chmod +x scripts.sh",
+    "cmd2": "./scripts.sh ",
+    "dev": "npm run cmd1 & npm run cmd2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/prabh1234assla/renamely.git"
+  },
+  "keywords": [
+    "JStoTS",
+    "typescript",
+    "javascript",
+    "VanillaJs",
+    "Ts"
+  ],
+  "author": "prabhdeep-singh-assla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabh1234assla/renamely/issues"
+  },
+  "homepage": "https://github.com/prabh1234assla/renamely#readme"
+}
